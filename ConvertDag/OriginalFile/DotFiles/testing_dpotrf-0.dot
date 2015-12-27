@@ -1,0 +1,410 @@
+digraph G {
+MAP_U_1_5_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(5, 7)[5, 7]<0>{1}",tooltip="MAP_U12"];
+MAP_U_1_6_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> MAP_U(6, 7)[6, 7]<0>{1}",tooltip="MAP_U6"];
+MAP_U_1_5_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(5, 6)[5, 6]<0>{1}",tooltip="MAP_U5"];
+MAP_U_1_4_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> MAP_U(4, 7)[4, 7]<0>{1}",tooltip="MAP_U18"];
+MAP_U_1_4_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(4, 6)[4, 6]<0>{1}",tooltip="MAP_U11"];
+MAP_U_1_3_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(3, 7)[3, 7]<0>{1}",tooltip="MAP_U24"];
+MAP_U_1_4_5 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> MAP_U(4, 5)[4, 5]<0>{1}",tooltip="MAP_U4"];
+MAP_U_1_3_5 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> MAP_U(3, 5)[3, 5]<0>{1}",tooltip="MAP_U10"];
+MAP_U_1_3_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(3, 6)[3, 6]<0>{1}",tooltip="MAP_U17"];
+MAP_U_1_2_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(2, 7)[2, 7]<0>{1}",tooltip="MAP_U30"];
+MAP_U_1_2_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(2, 6)[2, 6]<0>{1}",tooltip="MAP_U23"];
+MAP_U_1_2_5 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(2, 5)[2, 5]<0>{1}",tooltip="MAP_U16"];
+MAP_U_1_3_4 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> MAP_U(3, 4)[3, 4]<0>{1}",tooltip="MAP_U3"];
+MAP_U_1_2_4 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(2, 4)[2, 4]<0>{1}",tooltip="MAP_U9"];
+MAP_U_1_1_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(1, 7)[1, 7]<0>{1}",tooltip="MAP_U36"];
+MAP_U_1_1_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(1, 6)[1, 6]<0>{1}",tooltip="MAP_U29"];
+MAP_U_1_2_3 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> MAP_U(2, 3)[2, 3]<0>{1}",tooltip="MAP_U2"];
+MAP_U_1_1_5 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(1, 5)[1, 5]<0>{1}",tooltip="MAP_U22"];
+MAP_U_1_1_4 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> MAP_U(1, 4)[1, 4]<0>{1}",tooltip="MAP_U15"];
+MAP_U_1_1_3 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(1, 3)[1, 3]<0>{1}",tooltip="MAP_U8"];
+MAP_U_1_1_2 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> MAP_U(1, 2)[1, 2]<0>{1}",tooltip="MAP_U1"];
+MAP_U_1_0_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(0, 7)[0, 7]<0>{1}",tooltip="MAP_U42"];
+MAP_U_1_0_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> MAP_U(0, 6)[0, 6]<0>{1}",tooltip="MAP_U35"];
+MAP_U_1_0_5 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(0, 5)[0, 5]<0>{1}",tooltip="MAP_U28"];
+MAP_U_1_0_4 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> MAP_U(0, 4)[0, 4]<0>{1}",tooltip="MAP_U21"];
+MAP_U_1_0_3 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(0, 3)[0, 3]<0>{1}",tooltip="MAP_U14"];
+MAP_U_1_0_2 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> MAP_U(0, 2)[0, 2]<0>{1}",tooltip="MAP_U7"];
+MAP_U_1_0_1 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> MAP_U(0, 1)[0, 1]<0>{1}",tooltip="MAP_U0"];
+MAP_DIAG_1_7 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> MAP_DIAG(7)[7]<0>{1}",tooltip="MAP_DIAG7"];
+MAP_DIAG_1_6 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> MAP_DIAG(6)[6]<0>{1}",tooltip="MAP_DIAG6"];
+MAP_DIAG_1_5 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> MAP_DIAG(5)[5]<0>{1}",tooltip="MAP_DIAG5"];
+MAP_DIAG_1_4 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> MAP_DIAG(4)[4]<0>{1}",tooltip="MAP_DIAG4"];
+MAP_DIAG_1_3 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> MAP_DIAG(3)[3]<0>{1}",tooltip="MAP_DIAG3"];
+MAP_DIAG_1_2 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> MAP_DIAG(2)[2]<0>{1}",tooltip="MAP_DIAG2"];
+MAP_DIAG_1_1 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> MAP_DIAG(1)[1]<0>{1}",tooltip="MAP_DIAG1"];
+MAP_DIAG_1_0 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> MAP_DIAG(0)[0]<0>{1}",tooltip="MAP_DIAG0"];
+POTRF_2_0 [shape="polygon",style=filled,fillcolor="#e344e3",fontcolor="black",label="<0/0> POTRF(0)[0]<664>{2}",tooltip="POTRF0"];
+POTRF_2_0 -> TRSM_2_0_1 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_0 -> TRSM_2_0_2 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_0 -> TRSM_2_0_3 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_0 -> TRSM_2_0_4 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_0 -> TRSM_2_0_5 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_0 -> TRSM_2_0_6 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_0 -> TRSM_2_0_7 [label="T=>T",color="#00FF00",style="dashed"]
+TRSM_2_0_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(0, 7)[0, 7]<664>{2}",tooltip="TRSM42"];
+TRSM_2_0_7 -> SYRK_2_0_7 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_7 -> GEMM_2_1_7_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_7 -> GEMM_2_2_7_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_7 -> GEMM_2_3_7_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_7 -> GEMM_2_4_7_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_7 -> GEMM_2_5_7_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_7 -> GEMM_2_6_7_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> TRSM(0, 6)[0, 6]<664>{2}",tooltip="TRSM35"];
+TRSM_2_0_6 -> SYRK_2_0_6 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_6 -> GEMM_2_6_7_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_6 -> GEMM_2_1_6_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_6 -> GEMM_2_2_6_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_6 -> GEMM_2_3_6_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_6 -> GEMM_2_4_6_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_6 -> GEMM_2_5_6_0 [label="C=>B",color="#FF0000",style="dashed"]
+SYRK_2_0_7 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(0, 7)[0, 7]<664>{2}",tooltip="SYRK42"];
+SYRK_2_0_7 -> SYRK_2_1_7 [label="T=>T",color="#FF0000",style="dashed"]
+GEMM_2_6_7_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(6, 7, 0)[0, 6, 7]<664>{2}",tooltip="GEMM30"];
+GEMM_2_6_7_0 -> GEMM_2_6_7_1 [label="C=>C",color="#FF0000",style="dashed"]
+TRSM_2_0_5 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(0, 5)[0, 5]<664>{2}",tooltip="TRSM28"];
+TRSM_2_0_5 -> SYRK_2_0_5 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_5 -> GEMM_2_5_6_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_5 -> GEMM_2_5_7_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_5 -> GEMM_2_1_5_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_5 -> GEMM_2_2_5_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_5 -> GEMM_2_3_5_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_5 -> GEMM_2_4_5_0 [label="C=>B",color="#FF0000",style="dashed"]
+SYRK_2_0_6 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(0, 6)[0, 6]<664>{2}",tooltip="SYRK35"];
+SYRK_2_0_6 -> SYRK_2_1_6 [label="T=>T",color="#FF0000",style="dashed"]
+GEMM_2_5_7_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(5, 7, 0)[0, 5, 7]<664>{2}",tooltip="GEMM60"];
+GEMM_2_5_7_0 -> GEMM_2_5_7_1 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_5_6_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(5, 6, 0)[0, 5, 6]<664>{2}",tooltip="GEMM24"];
+GEMM_2_5_6_0 -> GEMM_2_5_6_1 [label="C=>C",color="#FF0000",style="dashed"]
+SYRK_2_0_5 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(0, 5)[0, 5]<664>{2}",tooltip="SYRK28"];
+SYRK_2_0_5 -> SYRK_2_1_5 [label="T=>T",color="#FF0000",style="dashed"]
+TRSM_2_0_4 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> TRSM(0, 4)[0, 4]<664>{2}",tooltip="TRSM21"];
+TRSM_2_0_4 -> SYRK_2_0_4 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_4 -> GEMM_2_4_5_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_4 -> GEMM_2_4_6_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_4 -> GEMM_2_4_7_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_4 -> GEMM_2_1_4_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_4 -> GEMM_2_2_4_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_4 -> GEMM_2_3_4_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_3 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(0, 3)[0, 3]<664>{2}",tooltip="TRSM14"];
+TRSM_2_0_3 -> SYRK_2_0_3 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_3 -> GEMM_2_3_4_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_3 -> GEMM_2_3_5_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_3 -> GEMM_2_3_6_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_3 -> GEMM_2_3_7_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_3 -> GEMM_2_1_3_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_3 -> GEMM_2_2_3_0 [label="C=>B",color="#FF0000",style="dashed"]
+GEMM_2_4_7_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(4, 7, 0)[0, 4, 7]<664>{2}",tooltip="GEMM90"];
+GEMM_2_4_7_0 -> GEMM_2_4_7_1 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_4_6_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(4, 6, 0)[0, 4, 6]<664>{2}",tooltip="GEMM54"];
+GEMM_2_4_6_0 -> GEMM_2_4_6_1 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_3_7_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(3, 7, 0)[0, 3, 7]<664>{2}",tooltip="GEMM120"];
+GEMM_2_3_7_0 -> GEMM_2_3_7_1 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_4_5_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(4, 5, 0)[0, 4, 5]<664>{2}",tooltip="GEMM18"];
+GEMM_2_4_5_0 -> GEMM_2_4_5_1 [label="C=>C",color="#FF0000",style="dashed"]
+SYRK_2_0_4 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(0, 4)[0, 4]<664>{2}",tooltip="SYRK21"];
+SYRK_2_0_4 -> SYRK_2_1_4 [label="T=>T",color="#FF0000",style="dashed"]
+GEMM_2_3_6_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(3, 6, 0)[0, 3, 6]<664>{2}",tooltip="GEMM84"];
+GEMM_2_3_6_0 -> GEMM_2_3_6_1 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_3_5_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(3, 5, 0)[0, 3, 5]<664>{2}",tooltip="GEMM48"];
+GEMM_2_3_5_0 -> GEMM_2_3_5_1 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_3_4_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(3, 4, 0)[0, 3, 4]<664>{2}",tooltip="GEMM12"];
+GEMM_2_3_4_0 -> GEMM_2_3_4_1 [label="C=>C",color="#FF0000",style="dashed"]
+SYRK_2_0_3 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(0, 3)[0, 3]<664>{2}",tooltip="SYRK14"];
+SYRK_2_0_3 -> SYRK_2_1_3 [label="T=>T",color="#FF0000",style="dashed"]
+TRSM_2_0_2 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(0, 2)[0, 2]<664>{2}",tooltip="TRSM7"];
+TRSM_2_0_2 -> SYRK_2_0_2 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_2 -> GEMM_2_2_3_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_2 -> GEMM_2_2_4_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_2 -> GEMM_2_2_5_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_2 -> GEMM_2_2_6_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_2 -> GEMM_2_2_7_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_2 -> GEMM_2_1_2_0 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_0_1 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> TRSM(0, 1)[0, 1]<664>{2}",tooltip="TRSM0"];
+TRSM_2_0_1 -> SYRK_2_0_1 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_1 -> GEMM_2_1_2_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_1 -> GEMM_2_1_3_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_1 -> GEMM_2_1_4_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_1 -> GEMM_2_1_5_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_1 -> GEMM_2_1_6_0 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_0_1 -> GEMM_2_1_7_0 [label="C=>A",color="#00FF00",style="dashed"]
+GEMM_2_2_7_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(2, 7, 0)[0, 2, 7]<664>{2}",tooltip="GEMM150"];
+GEMM_2_2_7_0 -> GEMM_2_2_7_1 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_1_7_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(1, 7, 0)[0, 1, 7]<664>{2}",tooltip="GEMM180"];
+GEMM_2_1_7_0 -> TRSM_2_1_7 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_2_6_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(2, 6, 0)[0, 2, 6]<664>{2}",tooltip="GEMM114"];
+GEMM_2_2_6_0 -> GEMM_2_2_6_1 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_1_6_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(1, 6, 0)[0, 1, 6]<664>{2}",tooltip="GEMM144"];
+GEMM_2_1_6_0 -> TRSM_2_1_6 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_2_5_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(2, 5, 0)[0, 2, 5]<664>{2}",tooltip="GEMM78"];
+GEMM_2_2_5_0 -> GEMM_2_2_5_1 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_1_5_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(1, 5, 0)[0, 1, 5]<664>{2}",tooltip="GEMM108"];
+GEMM_2_1_5_0 -> TRSM_2_1_5 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_2_4_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(2, 4, 0)[0, 2, 4]<664>{2}",tooltip="GEMM42"];
+GEMM_2_2_4_0 -> GEMM_2_2_4_1 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_1_4_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(1, 4, 0)[0, 1, 4]<664>{2}",tooltip="GEMM72"];
+GEMM_2_1_4_0 -> TRSM_2_1_4 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_2_3_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(2, 3, 0)[0, 2, 3]<664>{2}",tooltip="GEMM6"];
+GEMM_2_2_3_0 -> GEMM_2_2_3_1 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_1_3_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(1, 3, 0)[0, 1, 3]<664>{2}",tooltip="GEMM36"];
+GEMM_2_1_3_0 -> TRSM_2_1_3 [label="C=>C",color="#FF0000",style="dashed"]
+SYRK_2_0_2 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(0, 2)[0, 2]<664>{2}",tooltip="SYRK7"];
+SYRK_2_0_2 -> SYRK_2_1_2 [label="T=>T",color="#FF0000",style="dashed"]
+SYRK_2_0_1 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(0, 1)[0, 1]<664>{2}",tooltip="SYRK0"];
+SYRK_2_0_1 -> POTRF_2_1 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_1 [shape="polygon",style=filled,fillcolor="#e344e3",fontcolor="black",label="<0/0> POTRF(1)[1]<664>{2}",tooltip="POTRF1"];
+POTRF_2_1 -> TRSM_2_1_2 [label="T=>T",color="#FF0000",style="dashed"]
+POTRF_2_1 -> TRSM_2_1_3 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_1 -> TRSM_2_1_4 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_1 -> TRSM_2_1_5 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_1 -> TRSM_2_1_6 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_1 -> TRSM_2_1_7 [label="T=>T",color="#00FF00",style="dashed"]
+GEMM_2_1_2_0 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(1, 2, 0)[0, 1, 2]<664>{2}",tooltip="GEMM0"];
+GEMM_2_1_2_0 -> TRSM_2_1_2 [label="C=>C",color="#00FF00",style="dashed"]
+TRSM_2_1_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(1, 7)[1, 7]<664>{2}",tooltip="TRSM36"];
+TRSM_2_1_7 -> SYRK_2_1_7 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_7 -> GEMM_2_2_7_1 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_1_7 -> GEMM_2_3_7_1 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_1_7 -> GEMM_2_4_7_1 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_1_7 -> GEMM_2_5_7_1 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_1_7 -> GEMM_2_6_7_1 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_1_2 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> TRSM(1, 2)[1, 2]<664>{2}",tooltip="TRSM1"];
+TRSM_2_1_2 -> SYRK_2_1_2 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_2 -> GEMM_2_2_3_1 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_1_2 -> GEMM_2_2_4_1 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_1_2 -> GEMM_2_2_5_1 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_1_2 -> GEMM_2_2_6_1 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_1_2 -> GEMM_2_2_7_1 [label="C=>A",color="#00FF00",style="dashed"]
+SYRK_2_1_7 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(1, 7)[1, 7]<664>{2}",tooltip="SYRK36"];
+SYRK_2_1_7 -> SYRK_2_2_7 [label="T=>T",color="#FF0000",style="dashed"]
+TRSM_2_1_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(1, 6)[1, 6]<664>{2}",tooltip="TRSM29"];
+TRSM_2_1_6 -> SYRK_2_1_6 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_6 -> GEMM_2_6_7_1 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_6 -> GEMM_2_2_6_1 [label="C=>B",color="#00FF00",style="dashed"]
+TRSM_2_1_6 -> GEMM_2_3_6_1 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_1_6 -> GEMM_2_4_6_1 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_1_6 -> GEMM_2_5_6_1 [label="C=>B",color="#FF0000",style="dashed"]
+GEMM_2_2_7_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(2, 7, 1)[1, 2, 7]<664>{2}",tooltip="GEMM145"];
+GEMM_2_2_7_1 -> TRSM_2_2_7 [label="C=>C",color="#FF0000",style="dashed"]
+SYRK_2_1_2 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(1, 2)[1, 2]<664>{2}",tooltip="SYRK1"];
+SYRK_2_1_2 -> POTRF_2_2 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_2 [shape="polygon",style=filled,fillcolor="#e344e3",fontcolor="black",label="<1/0> POTRF(2)[2]<664>{2}",tooltip="POTRF2"];
+POTRF_2_2 -> TRSM_2_2_3 [label="T=>T",color="#FF0000",style="dashed"]
+POTRF_2_2 -> TRSM_2_2_4 [label="T=>T",color="#FF0000",style="dashed"]
+POTRF_2_2 -> TRSM_2_2_5 [label="T=>T",color="#FF0000",style="dashed"]
+POTRF_2_2 -> TRSM_2_2_6 [label="T=>T",color="#FF0000",style="dashed"]
+POTRF_2_2 -> TRSM_2_2_7 [label="T=>T",color="#00FF00",style="dashed"]
+GEMM_2_2_6_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(2, 6, 1)[1, 2, 6]<664>{2}",tooltip="GEMM109"];
+GEMM_2_2_6_1 -> TRSM_2_2_6 [label="C=>C",color="#00FF00",style="dashed"]
+TRSM_2_2_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> TRSM(2, 7)[2, 7]<664>{2}",tooltip="TRSM30"];
+TRSM_2_2_7 -> SYRK_2_2_7 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_2_7 -> GEMM_2_3_7_2 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_2_7 -> GEMM_2_4_7_2 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_2_7 -> GEMM_2_5_7_2 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_2_7 -> GEMM_2_6_7_2 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_2_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(2, 6)[2, 6]<664>{2}",tooltip="TRSM23"];
+TRSM_2_2_6 -> SYRK_2_2_6 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_6 -> GEMM_2_6_7_2 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_6 -> GEMM_2_3_6_2 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_2_6 -> GEMM_2_4_6_2 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_2_6 -> GEMM_2_5_6_2 [label="C=>B",color="#FF0000",style="dashed"]
+SYRK_2_2_7 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(2, 7)[2, 7]<664>{2}",tooltip="SYRK30"];
+SYRK_2_2_7 -> SYRK_2_3_7 [label="T=>T",color="#FF0000",style="dashed"]
+TRSM_2_1_5 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> TRSM(1, 5)[1, 5]<664>{2}",tooltip="TRSM22"];
+TRSM_2_1_5 -> SYRK_2_1_5 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_5 -> GEMM_2_5_6_1 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_5 -> GEMM_2_5_7_1 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_5 -> GEMM_2_2_5_1 [label="C=>B",color="#00FF00",style="dashed"]
+TRSM_2_1_5 -> GEMM_2_3_5_1 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_1_5 -> GEMM_2_4_5_1 [label="C=>B",color="#FF0000",style="dashed"]
+GEMM_2_6_7_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(6, 7, 1)[1, 6, 7]<664>{2}",tooltip="GEMM25"];
+GEMM_2_6_7_1 -> GEMM_2_6_7_2 [label="C=>C",color="#00FF00",style="dashed"]
+GEMM_2_2_5_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(2, 5, 1)[1, 2, 5]<664>{2}",tooltip="GEMM73"];
+GEMM_2_2_5_1 -> TRSM_2_2_5 [label="C=>C",color="#00FF00",style="dashed"]
+GEMM_2_6_7_2 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(6, 7, 2)[2, 6, 7]<664>{2}",tooltip="GEMM20"];
+GEMM_2_6_7_2 -> GEMM_2_6_7_3 [label="C=>C",color="#FF0000",style="dashed"]
+TRSM_2_2_5 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> TRSM(2, 5)[2, 5]<664>{2}",tooltip="TRSM16"];
+TRSM_2_2_5 -> SYRK_2_2_5 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_5 -> GEMM_2_5_6_2 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_5 -> GEMM_2_5_7_2 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_5 -> GEMM_2_3_5_2 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_2_5 -> GEMM_2_4_5_2 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_1_4 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(1, 4)[1, 4]<664>{2}",tooltip="TRSM15"];
+TRSM_2_1_4 -> SYRK_2_1_4 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_4 -> GEMM_2_4_5_1 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_4 -> GEMM_2_4_6_1 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_4 -> GEMM_2_4_7_1 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_4 -> GEMM_2_2_4_1 [label="C=>B",color="#00FF00",style="dashed"]
+TRSM_2_1_4 -> GEMM_2_3_4_1 [label="C=>B",color="#FF0000",style="dashed"]
+GEMM_2_5_7_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(5, 7, 1)[1, 5, 7]<664>{2}",tooltip="GEMM55"];
+GEMM_2_5_7_1 -> GEMM_2_5_7_2 [label="C=>C",color="#00FF00",style="dashed"]
+GEMM_2_2_4_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(2, 4, 1)[1, 2, 4]<664>{2}",tooltip="GEMM37"];
+GEMM_2_2_4_1 -> TRSM_2_2_4 [label="C=>C",color="#00FF00",style="dashed"]
+TRSM_2_2_4 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(2, 4)[2, 4]<664>{2}",tooltip="TRSM9"];
+TRSM_2_2_4 -> SYRK_2_2_4 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_4 -> GEMM_2_4_5_2 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_4 -> GEMM_2_4_6_2 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_4 -> GEMM_2_4_7_2 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_4 -> GEMM_2_3_4_2 [label="C=>B",color="#FF0000",style="dashed"]
+GEMM_2_5_7_2 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(5, 7, 2)[2, 5, 7]<664>{2}",tooltip="GEMM50"];
+GEMM_2_5_7_2 -> GEMM_2_5_7_3 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_4_7_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(4, 7, 1)[1, 4, 7]<664>{2}",tooltip="GEMM85"];
+GEMM_2_4_7_1 -> GEMM_2_4_7_2 [label="C=>C",color="#00FF00",style="dashed"]
+GEMM_2_5_6_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(5, 6, 1)[1, 5, 6]<664>{2}",tooltip="GEMM19"];
+GEMM_2_5_6_1 -> GEMM_2_5_6_2 [label="C=>C",color="#00FF00",style="dashed"]
+GEMM_2_4_7_2 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(4, 7, 2)[2, 4, 7]<664>{2}",tooltip="GEMM80"];
+GEMM_2_4_7_2 -> GEMM_2_4_7_3 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_5_6_2 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(5, 6, 2)[2, 5, 6]<664>{2}",tooltip="GEMM14"];
+GEMM_2_5_6_2 -> GEMM_2_5_6_3 [label="C=>C",color="#FF0000",style="dashed"]
+SYRK_2_1_5 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(1, 5)[1, 5]<664>{2}",tooltip="SYRK22"];
+SYRK_2_1_5 -> SYRK_2_2_5 [label="T=>T",color="#00FF00",style="dashed"]
+GEMM_2_4_6_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(4, 6, 1)[1, 4, 6]<664>{2}",tooltip="GEMM49"];
+GEMM_2_4_6_1 -> GEMM_2_4_6_2 [label="C=>C",color="#00FF00",style="dashed"]
+SYRK_2_2_5 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(2, 5)[2, 5]<664>{2}",tooltip="SYRK16"];
+SYRK_2_2_5 -> SYRK_2_3_5 [label="T=>T",color="#FF0000",style="dashed"]
+GEMM_2_4_6_2 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(4, 6, 2)[2, 4, 6]<664>{2}",tooltip="GEMM44"];
+GEMM_2_4_6_2 -> GEMM_2_4_6_3 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_4_5_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(4, 5, 1)[1, 4, 5]<664>{2}",tooltip="GEMM13"];
+GEMM_2_4_5_1 -> GEMM_2_4_5_2 [label="C=>C",color="#00FF00",style="dashed"]
+TRSM_2_1_3 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(1, 3)[1, 3]<664>{2}",tooltip="TRSM8"];
+TRSM_2_1_3 -> SYRK_2_1_3 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_3 -> GEMM_2_3_4_1 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_3 -> GEMM_2_3_5_1 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_3 -> GEMM_2_3_6_1 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_3 -> GEMM_2_3_7_1 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_1_3 -> GEMM_2_2_3_1 [label="C=>B",color="#00FF00",style="dashed"]
+GEMM_2_4_5_2 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(4, 5, 2)[2, 4, 5]<664>{2}",tooltip="GEMM8"];
+GEMM_2_4_5_2 -> GEMM_2_4_5_3 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_2_3_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(2, 3, 1)[1, 2, 3]<664>{2}",tooltip="GEMM1"];
+GEMM_2_2_3_1 -> TRSM_2_2_3 [label="C=>C",color="#00FF00",style="dashed"]
+TRSM_2_2_3 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(2, 3)[2, 3]<664>{2}",tooltip="TRSM2"];
+TRSM_2_2_3 -> SYRK_2_2_3 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_3 -> GEMM_2_3_4_2 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_3 -> GEMM_2_3_5_2 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_3 -> GEMM_2_3_6_2 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_2_3 -> GEMM_2_3_7_2 [label="C=>A",color="#FF0000",style="dashed"]
+GEMM_2_3_7_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(3, 7, 1)[1, 3, 7]<664>{2}",tooltip="GEMM115"];
+GEMM_2_3_7_1 -> GEMM_2_3_7_2 [label="C=>C",color="#00FF00",style="dashed"]
+GEMM_2_3_6_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(3, 6, 1)[1, 3, 6]<664>{2}",tooltip="GEMM79"];
+GEMM_2_3_6_1 -> GEMM_2_3_6_2 [label="C=>C",color="#00FF00",style="dashed"]
+GEMM_2_3_7_2 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(3, 7, 2)[2, 3, 7]<664>{2}",tooltip="GEMM110"];
+GEMM_2_3_7_2 -> TRSM_2_3_7 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_3_6_2 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(3, 6, 2)[2, 3, 6]<664>{2}",tooltip="GEMM74"];
+GEMM_2_3_6_2 -> TRSM_2_3_6 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_3_5_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(3, 5, 1)[1, 3, 5]<664>{2}",tooltip="GEMM43"];
+GEMM_2_3_5_1 -> GEMM_2_3_5_2 [label="C=>C",color="#00FF00",style="dashed"]
+GEMM_2_3_4_1 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(3, 4, 1)[1, 3, 4]<664>{2}",tooltip="GEMM7"];
+GEMM_2_3_5_2 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(3, 5, 2)[2, 3, 5]<664>{2}",tooltip="GEMM38"];
+GEMM_2_3_5_2 -> TRSM_2_3_5 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_3_4_1 -> GEMM_2_3_4_2 [label="C=>C",color="#00FF00",style="dashed"]
+SYRK_2_1_6 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(1, 6)[1, 6]<664>{2}",tooltip="SYRK29"];
+SYRK_2_1_6 -> SYRK_2_2_6 [label="T=>T",color="#00FF00",style="dashed"]
+SYRK_2_2_6 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(2, 6)[2, 6]<664>{2}",tooltip="SYRK23"];
+SYRK_2_2_6 -> SYRK_2_3_6 [label="T=>T",color="#FF0000",style="dashed"]
+GEMM_2_3_4_2 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(3, 4, 2)[2, 3, 4]<664>{2}",tooltip="GEMM2"];
+GEMM_2_3_4_2 -> TRSM_2_3_4 [label="C=>C",color="#FF0000",style="dashed"]
+SYRK_2_1_4 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(1, 4)[1, 4]<664>{2}",tooltip="SYRK15"];
+SYRK_2_1_4 -> SYRK_2_2_4 [label="T=>T",color="#00FF00",style="dashed"]
+SYRK_2_1_3 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(1, 3)[1, 3]<664>{2}",tooltip="SYRK8"];
+SYRK_2_1_3 -> SYRK_2_2_3 [label="T=>T",color="#00FF00",style="dashed"]
+SYRK_2_2_4 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(2, 4)[2, 4]<664>{2}",tooltip="SYRK9"];
+SYRK_2_2_4 -> SYRK_2_3_4 [label="T=>T",color="#FF0000",style="dashed"]
+SYRK_2_2_3 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(2, 3)[2, 3]<664>{2}",tooltip="SYRK2"];
+SYRK_2_2_3 -> POTRF_2_3 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_3 [shape="polygon",style=filled,fillcolor="#e344e3",fontcolor="black",label="<0/0> POTRF(3)[3]<664>{2}",tooltip="POTRF3"];
+POTRF_2_3 -> TRSM_2_3_4 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_3 -> TRSM_2_3_5 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_3 -> TRSM_2_3_6 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_3 -> TRSM_2_3_7 [label="T=>T",color="#00FF00",style="dashed"]
+TRSM_2_3_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(3, 7)[3, 7]<664>{2}",tooltip="TRSM24"];
+TRSM_2_3_7 -> SYRK_2_3_7 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_3_7 -> GEMM_2_4_7_3 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_3_7 -> GEMM_2_5_7_3 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_3_7 -> GEMM_2_6_7_3 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_3_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> TRSM(3, 6)[3, 6]<664>{2}",tooltip="TRSM17"];
+TRSM_2_3_6 -> SYRK_2_3_6 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_3_6 -> GEMM_2_6_7_3 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_3_6 -> GEMM_2_4_6_3 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_3_6 -> GEMM_2_5_6_3 [label="C=>B",color="#FF0000",style="dashed"]
+SYRK_2_3_7 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(3, 7)[3, 7]<664>{2}",tooltip="SYRK24"];
+SYRK_2_3_7 -> SYRK_2_4_7 [label="T=>T",color="#FF0000",style="dashed"]
+GEMM_2_6_7_3 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(6, 7, 3)[3, 6, 7]<664>{2}",tooltip="GEMM15"];
+GEMM_2_6_7_3 -> GEMM_2_6_7_4 [label="C=>C",color="#FF0000",style="dashed"]
+TRSM_2_3_5 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(3, 5)[3, 5]<664>{2}",tooltip="TRSM10"];
+TRSM_2_3_5 -> SYRK_2_3_5 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_3_5 -> GEMM_2_5_6_3 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_3_5 -> GEMM_2_5_7_3 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_3_5 -> GEMM_2_4_5_3 [label="C=>B",color="#FF0000",style="dashed"]
+SYRK_2_3_6 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(3, 6)[3, 6]<664>{2}",tooltip="SYRK17"];
+SYRK_2_3_6 -> SYRK_2_4_6 [label="T=>T",color="#FF0000",style="dashed"]
+GEMM_2_5_7_3 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(5, 7, 3)[3, 5, 7]<664>{2}",tooltip="GEMM45"];
+GEMM_2_5_7_3 -> GEMM_2_5_7_4 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_5_6_3 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(5, 6, 3)[3, 5, 6]<664>{2}",tooltip="GEMM9"];
+GEMM_2_5_6_3 -> GEMM_2_5_6_4 [label="C=>C",color="#FF0000",style="dashed"]
+SYRK_2_3_5 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(3, 5)[3, 5]<664>{2}",tooltip="SYRK10"];
+SYRK_2_3_5 -> SYRK_2_4_5 [label="T=>T",color="#FF0000",style="dashed"]
+TRSM_2_3_4 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> TRSM(3, 4)[3, 4]<664>{2}",tooltip="TRSM3"];
+TRSM_2_3_4 -> SYRK_2_3_4 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_3_4 -> GEMM_2_4_5_3 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_3_4 -> GEMM_2_4_6_3 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_3_4 -> GEMM_2_4_7_3 [label="C=>A",color="#00FF00",style="dashed"]
+GEMM_2_4_7_3 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(4, 7, 3)[3, 4, 7]<664>{2}",tooltip="GEMM75"];
+GEMM_2_4_7_3 -> TRSM_2_4_7 [label="C=>C",color="#FF0000",style="dashed"]
+GEMM_2_4_6_3 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(4, 6, 3)[3, 4, 6]<664>{2}",tooltip="GEMM39"];
+GEMM_2_4_6_3 -> TRSM_2_4_6 [label="C=>C",color="#FF0000",style="dashed"]
+SYRK_2_3_4 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(3, 4)[3, 4]<664>{2}",tooltip="SYRK3"];
+SYRK_2_3_4 -> POTRF_2_4 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_4 [shape="polygon",style=filled,fillcolor="#e344e3",fontcolor="black",label="<0/0> POTRF(4)[4]<664>{2}",tooltip="POTRF4"];
+POTRF_2_4 -> TRSM_2_4_5 [label="T=>T",color="#FF0000",style="dashed"]
+POTRF_2_4 -> TRSM_2_4_6 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_4 -> TRSM_2_4_7 [label="T=>T",color="#00FF00",style="dashed"]
+GEMM_2_4_5_3 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(4, 5, 3)[3, 4, 5]<664>{2}",tooltip="GEMM3"];
+GEMM_2_4_5_3 -> TRSM_2_4_5 [label="C=>C",color="#00FF00",style="dashed"]
+TRSM_2_4_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(4, 7)[4, 7]<664>{2}",tooltip="TRSM18"];
+TRSM_2_4_7 -> SYRK_2_4_7 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_4_7 -> GEMM_2_5_7_4 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_4_7 -> GEMM_2_6_7_4 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_4_5 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> TRSM(4, 5)[4, 5]<664>{2}",tooltip="TRSM4"];
+TRSM_2_4_5 -> SYRK_2_4_5 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_4_5 -> GEMM_2_5_6_4 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_4_5 -> GEMM_2_5_7_4 [label="C=>A",color="#00FF00",style="dashed"]
+SYRK_2_4_7 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(4, 7)[4, 7]<664>{2}",tooltip="SYRK18"];
+SYRK_2_4_7 -> SYRK_2_5_7 [label="T=>T",color="#FF0000",style="dashed"]
+TRSM_2_4_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(4, 6)[4, 6]<664>{2}",tooltip="TRSM11"];
+TRSM_2_4_6 -> SYRK_2_4_6 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_4_6 -> GEMM_2_6_7_4 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_4_6 -> GEMM_2_5_6_4 [label="C=>B",color="#00FF00",style="dashed"]
+GEMM_2_5_7_4 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<1/0> GEMM(5, 7, 4)[4, 5, 7]<664>{2}",tooltip="GEMM40"];
+GEMM_2_5_7_4 -> TRSM_2_5_7 [label="C=>C",color="#FF0000",style="dashed"]
+SYRK_2_4_5 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(4, 5)[4, 5]<664>{2}",tooltip="SYRK4"];
+SYRK_2_4_5 -> POTRF_2_5 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_5 [shape="polygon",style=filled,fillcolor="#e344e3",fontcolor="black",label="<1/0> POTRF(5)[5]<664>{2}",tooltip="POTRF5"];
+POTRF_2_5 -> TRSM_2_5_6 [label="T=>T",color="#FF0000",style="dashed"]
+POTRF_2_5 -> TRSM_2_5_7 [label="T=>T",color="#00FF00",style="dashed"]
+GEMM_2_5_6_4 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(5, 6, 4)[4, 5, 6]<664>{2}",tooltip="GEMM4"];
+GEMM_2_5_6_4 -> TRSM_2_5_6 [label="C=>C",color="#00FF00",style="dashed"]
+TRSM_2_5_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<1/0> TRSM(5, 7)[5, 7]<664>{2}",tooltip="TRSM12"];
+TRSM_2_5_7 -> SYRK_2_5_7 [label="C=>A",color="#00FF00",style="dashed"]
+TRSM_2_5_7 -> GEMM_2_6_7_5 [label="C=>B",color="#FF0000",style="dashed"]
+TRSM_2_5_6 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(5, 6)[5, 6]<664>{2}",tooltip="TRSM5"];
+TRSM_2_5_6 -> SYRK_2_5_6 [label="C=>A",color="#FF0000",style="dashed"]
+TRSM_2_5_6 -> GEMM_2_6_7_5 [label="C=>A",color="#FF0000",style="dashed"]
+SYRK_2_5_7 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(5, 7)[5, 7]<664>{2}",tooltip="SYRK12"];
+SYRK_2_5_7 -> SYRK_2_6_7 [label="T=>T",color="#FF0000",style="dashed"]
+SYRK_2_4_6 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(4, 6)[4, 6]<664>{2}",tooltip="SYRK11"];
+SYRK_2_4_6 -> SYRK_2_5_6 [label="T=>T",color="#00FF00",style="dashed"]
+GEMM_2_6_7_4 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(6, 7, 4)[4, 6, 7]<664>{2}",tooltip="GEMM10"];
+GEMM_2_6_7_4 -> GEMM_2_6_7_5 [label="C=>C",color="#00FF00",style="dashed"]
+SYRK_2_5_6 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<1/0> SYRK(5, 6)[5, 6]<664>{2}",tooltip="SYRK5"];
+SYRK_2_5_6 -> POTRF_2_6 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_6 [shape="polygon",style=filled,fillcolor="#e344e3",fontcolor="black",label="<1/0> POTRF(6)[6]<664>{2}",tooltip="POTRF6"];
+POTRF_2_6 -> TRSM_2_6_7 [label="T=>T",color="#FF0000",style="dashed"]
+GEMM_2_6_7_5 [shape="polygon",style=filled,fillcolor="#36d0d0",fontcolor="black",label="<0/0> GEMM(6, 7, 5)[5, 6, 7]<664>{2}",tooltip="GEMM5"];
+GEMM_2_6_7_5 -> TRSM_2_6_7 [label="C=>C",color="#00FF00",style="dashed"]
+TRSM_2_6_7 [shape="polygon",style=filled,fillcolor="#060698",fontcolor="black",label="<0/0> TRSM(6, 7)[6, 7]<664>{2}",tooltip="TRSM6"];
+TRSM_2_6_7 -> SYRK_2_6_7 [label="C=>A",color="#00FF00",style="dashed"]
+SYRK_2_6_7 [shape="polygon",style=filled,fillcolor="#12a312",fontcolor="black",label="<0/0> SYRK(6, 7)[6, 7]<664>{2}",tooltip="SYRK6"];
+SYRK_2_6_7 -> POTRF_2_7 [label="T=>T",color="#00FF00",style="dashed"]
+POTRF_2_7 [shape="polygon",style=filled,fillcolor="#e344e3",fontcolor="black",label="<0/0> POTRF(7)[7]<664>{2}",tooltip="POTRF7"];
+}
