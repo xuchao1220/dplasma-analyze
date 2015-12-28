@@ -8,12 +8,14 @@ public class EventTable {
 	public List<Event> SYRKList;
 	public List<Event> TRSMList;
 	public List<Event> POTRFList;
+	public List<List<Event>> ThreadList;
 	
 	public EventTable() {
 		GEMMList = new ArrayList<Event>();
 		SYRKList = new ArrayList<Event>();
 		TRSMList = new ArrayList<Event>();
 		POTRFList = new ArrayList<Event>();
+		ThreadList = new ArrayList<List<Event>>();
 	}
 	
 	public void addEvent(Event event){

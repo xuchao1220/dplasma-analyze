@@ -8,7 +8,7 @@ public class Dag {
      public List<Node> nodeList;//����
      public List<Event> eventList;//
      public EventTable eventTable;
-     public List<Edge> edgeList;//��     
+     public List<Edge> edgeList;//��   
      public HashMap<String,Node> nodeHashMap;
      
      public Dag() {

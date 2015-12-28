@@ -49,6 +49,7 @@ public class FilePrase {
 		dag.printEvents();
 		System.out.println("Finish prase xml file");
 	} 
+	
 	private void praseDictionayKEY(Element KEY_Element){
 		int typeId = Integer.parseInt(KEY_Element.attributeValue("ID"));
 		Iterator KEY_Iterator = KEY_Element.elementIterator();

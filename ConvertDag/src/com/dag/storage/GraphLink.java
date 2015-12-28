@@ -57,15 +57,6 @@ public class GraphLink {
 		}
         return node;
 	}
-	
-	/*private boolean containsNode(Event event){
-		boolean flag = false;
-		for(HeadNode headNode:headList){
-			if(headNode.node == event)
-				flag = true;
-		}
-		return flag;
-	}*/
 
 	public void printGraph(){
 		System.out.println("---GraphLink---");
@@ -81,7 +72,7 @@ public class GraphLink {
 		System.out.println("------");
 		System.out.println("NodeNum:"+headList.size());
 	}
-	
+
 	public void findKeyRoute(){
 		Event lastEvent = dag.eventTable.POTRFList.get(0);
 		for(Event event:dag.eventTable.POTRFList){

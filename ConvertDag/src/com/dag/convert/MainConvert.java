@@ -19,7 +19,7 @@ public class MainConvert {
 	    fileOperate.readEvent(event_xml_path);
 	    fileOperate.readDag(dag_dot_path);
 	   	
-	    fileOperate.praser.dag.testTransTime();
+//	    fileOperate.praser.dag.testTransTime();
 	    
 	   	String writePath = rootPath + "/TargetFile/";
 	   	String eventPath = writePath + "Event.txt";
@@ -27,10 +27,14 @@ public class MainConvert {
 	   	fileOperate.writeEvents(eventPath);
 	   	fileOperate.writeEdges(edgePath);
 	   	
-	   	GraphLink graphLink = new GraphLink(fileOperate.praser.dag);
+	   	DagAnalyze dagAnalyze = new DagAnalyze(fileOperate.praser.dag);
+	   	dagAnalyze.printThreadLine();
+	   	dagAnalyze.analyzeEdge();
+	   	
+	/*   	GraphLink graphLink = new GraphLink(fileOperate.praser.dag);
 	   	graphLink.printGraph();
 	   	graphLink.findKeyRoute();
-	   	graphLink.printKeyRoute();
+	   	graphLink.printKeyRoute();*/
 	   	
 	}
 
